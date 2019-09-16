@@ -1,14 +1,14 @@
-# insta-clone
+# insta-clone-app
 
 ## Descrição
-O insta-clone é um app que foi desenvolvido para finalidade de estudo.
+O insta-clone-app é um app que foi desenvolvido para finalidade de estudo.
 
 ## Instalação
 
 #Servidor REST
 É necessario um servidor para que o app possa consumir os dados
 
-[sever-instaclone é uma opção](https://github.com/brlga002/sever-instaclone)
+[insta-clone-sever é uma opção](https://github.com/brlga002/sever-instaclone)
 Instale as dependências e devDependencies e inicie o servidor.
 
 Após baixar o projeto rode o comando:
