@@ -1,0 +1,191 @@
+{
+  "feed": [
+    {
+      "id": 1,
+      "image": "https://i.ibb.co/txC0dRH/1.jpg",
+      "small": "https://i.ibb.co/bKxvWPf/1.jpg",
+      "aspectRatio": 1,
+      "description": "Setembro Amarelo nós apoiamos esta causa!",
+      "authorId": 1
+    },
+    {
+      "id": 2,
+      "image": "https://i.ibb.co/Dw5XKx4/2.jpg",
+      "small": "https://i.ibb.co/8BBBkbQ/2.jpg",
+      "aspectRatio": 1,
+      "description": "Tenha um APP personalizado para seu negócio",
+      "authorId": 2
+    },
+    {
+      "id": 3,
+      "image": "https://i.ibb.co/2ZncMR7/3.jpg",
+      "small": "https://i.ibb.co/pZHWb6D/3.jpg",
+      "aspectRatio": 1,
+      "description": "KODIGOS seleciona talentos",
+      "authorId": 3
+    },
+    {
+      "id": 4,
+      "image": "https://i.ibb.co/gJ4S0qB/4.jpg",
+      "small": "https://i.ibb.co/k0k89Gz/4.jpg",
+      "aspectRatio": 1,
+      "description": "Veja nosso site.",
+      "authorId": 4
+    },
+    {
+      "id": 5,
+      "image": "https://i.ibb.co/nRxqDtG/5.jpg",
+      "small": "https://i.ibb.co/7CpTfh6/5.jpg",
+      "aspectRatio": 1,
+      "description": "Parabéns Arlindo, muitos anos de vida",
+      "authorId": 2
+    },
+    {
+      "id": 6,
+      "image": "https://i.ibb.co/MSsrmGD/6.jpg",
+      "small": "https://i.ibb.co/tm3J63q/6.jpg",
+      "aspectRatio": 1,
+      "description": "Felicidades Wemerson!",
+      "authorId": 3
+    },
+    {
+      "id": 7,
+      "image": "https://i.ibb.co/q1Y7d8q/7.jpg",
+      "small": "https://i.ibb.co/rkT51r3/7.jpg",
+      "aspectRatio": 1,
+      "description": "Parabéns Vinicios!",
+      "authorId": 1
+    },
+    {
+      "id": 8,
+      "image": "https://i.ibb.co/qJCHwpd/8.jpg",
+      "small": "https://i.ibb.co/F4kVT6V/8.jpg",
+      "aspectRatio": 1,
+      "description": "Automatize todos os seus processos conosco",
+      "authorId": 2
+    },
+    {
+      "id": 9,
+      "image": "https://i.ibb.co/KDHWcsD/9.jpg",
+      "small": "https://i.ibb.co/QdTVFSw/9.jpg",
+      "aspectRatio": 1,
+      "description": "Bennie muitas felicidades neste dia especial",
+      "authorId": 4
+    },
+    {
+      "id": 10,
+      "image": "https://i.ibb.co/LhTmrfx/10.jpg",
+      "small": "https://i.ibb.co/QPTDYr0/10.jpg",
+      "aspectRatio": 1,
+      "description": "Parabéns Gilson!",
+      "authorId": 3
+    },
+    {
+      "id": 11,
+      "image": "https://i.ibb.co/rbd35py/20.jpg",
+      "small": "https://i.ibb.co/zSk9fTP/20.jpg",
+      "aspectRatio": 1,
+      "description": "Setembro amarelo mês de prevenção ao suicídio",
+      "authorId": 1
+    },
+    {
+      "id": 12,
+      "image": "https://i.ibb.co/PDP3FMb/12.jpg",
+      "small": "https://i.ibb.co/9qwkN6s/12.jpg",
+      "aspectRatio": 1,
+      "description": "Cotação de preços, saiba como otimizá-la",
+      "authorId": 3
+    },
+    {
+      "id": 13,
+      "image": "https://i.ibb.co/YB3xg9Y/13.jpg",
+      "small": "https://i.ibb.co/yybMtFb/13.jpg",
+      "aspectRatio": 1,
+      "description": "Descubra a relação",
+      "authorId": 2
+    },
+    {
+      "id": 14,
+      "image": "https://i.ibb.co/tJn1vCV/14.jpg",
+      "small": "https://i.ibb.co/Jxc5B9p/14.jpg",
+      "aspectRatio": 1,
+      "description": "Você sabe a importância",
+      "authorId": 4
+    },
+    {
+      "id": 15,
+      "image": "https://i.ibb.co/PFZfFdP/15.jpg",
+      "small": "https://i.ibb.co/NFfKxyr/15.jpg",
+      "aspectRatio": 1,
+      "description": "Descubra como",
+      "authorId": 4
+    },
+    {
+      "id": 16,
+      "image": "https://i.ibb.co/mX4YJDb/16.jpg",
+      "small": "https://i.ibb.co/syCcm3t/16.jpg",
+      "aspectRatio": 1,
+      "description": "if (programador) colole.log('Parabéns')",
+      "authorId": 3
+    },
+    {
+      "id": 17,
+      "image": "https://i.ibb.co/3WjQtd7/17.jpg",
+      "small": "https://i.ibb.co/5BqrZgP/17.jpg",
+      "aspectRatio": 1,
+      "description": "Conheça 3 e inove",
+      "authorId": 2
+    },
+    {
+      "id": 18,
+      "image": "https://i.ibb.co/b76JmJ7/18.jpg",
+      "small": "https://i.ibb.co/r3jX9Wt/18.jpg",
+      "aspectRatio": 1,
+      "description": "Saiba o Porquê?",
+      "authorId": 1
+    },
+    {
+      "id": 19,
+      "image": "https://i.ibb.co/TY6qZNk/19.jpg",
+      "small": "https://i.ibb.co/zQf9hcJ/19.jpg",
+      "aspectRatio": 1,
+      "description": "Automatização é a chave para o sucesso",
+      "authorId": 2
+    },
+    {
+      "id": 20,
+      "image": "https://i.ibb.co/rbd35py/20.jpg",
+      "small": "https://i.ibb.co/zSk9fTP/20.jpg",
+      "aspectRatio": 1,
+      "description": "Não tenha medo de falar",
+      "authorId": 1
+    }
+  ],
+  "authors": [
+    {
+      "id": 1,
+      "name": "gabrielStolze",
+      "avatar": "https://i.ibb.co/x66sZcg/gabriel-Avatar.jpg"
+    },
+    {
+      "id": 2,
+      "name": "elonio_barboza",
+      "avatar": "https://media.licdn.com/dms/image/C4D03AQHkuiwzXsVAfw/profile-displayphoto-shrink_200_200/0?e=1574294400&v=beta&t=7pMOSeHpjkNBH3UHVraR0CVK7rOMOtkju3Ih5hcr06w"
+    },
+    {
+      "id": 3,
+      "name": "diego",
+      "avatar": "https://media.licdn.com/dms/image/C4D03AQGT6VSggEn-GQ/profile-displayphoto-shrink_200_200/0?e=1574294400&v=beta&t=LVJEG5QLNXOeYx2M5v3EFdmguVp97LZdBVUMfDcGTEs"
+    },
+    {
+      "id": 4,
+      "name": "tiago",
+      "avatar": "https://media.licdn.com/dms/image/C4E03AQHKff8Xj1EHnA/profile-displayphoto-shrink_200_200/0?e=1574294400&v=beta&t=_NzmSAkypgw9hdFGqTXVtR_CTGYZzotnEy-KvFCs-wc"
+    },
+    {
+      "id": 5,
+      "name": "silbery",
+      "avatar": "https://media.licdn.com/dms/image/C4D03AQEXh63aaRashw/profile-displayphoto-shrink_200_200/0?e=1574294400&v=beta&t=0_t98nRODUzLKxbietiGAHI3qC0_v40x_Iz8QfEpDiw"
+    }
+  ]
+}
